@@ -1,0 +1,16 @@
+Tables
+
+A table is nothing more than a means of organizing data in rows and columns.
+This concept has been present in our society for a long period of time and has
+been adopted by HTML in its early stages, as a way of conveying information that
+would otherwise not be so easily understood.
+
+In HTML documents a table can be considered, briefly, as a group of rows where
+each one contains a group of cells. This is conceptually different from a column
+group containing a row group, and this difference will have an impact on the
+composition and behavior of the table.
+
+Like many other HTML structures, tables are built using elements.
+In particular, a basic table can be declared using three elements,
+namely table (the main container), tr (representing the cell-containing rows)
+and td (representing the cells).

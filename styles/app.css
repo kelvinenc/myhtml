@@ -1,0 +1,28 @@
+.tb-title-table {
+	font-size: 25px;
+}
+
+td {
+	height: 25px;
+}
+
+.checkbox-center {
+	text-align: center;
+}
+
+.tb-initial-date {
+	width: 110px;
+}
+
+.tb-title-left {
+	text-align: left;
+}
+
+.tb-amount {
+	text-align: right;
+}
+
+.tb-delete-center {
+	width: 70px;
+	text-align: center;
+}
